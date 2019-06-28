@@ -1,5 +1,0 @@
-myvar = "python"
-print(myvar)
-
-myvar = 88
-print(myvar)
